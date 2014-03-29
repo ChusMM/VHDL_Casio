@@ -1,0 +1,15 @@
+ENTREGABLE RELOJ DIGITAL - DISEÑO Y SÍNTESIS DE HARDWARE.
+
+Autores:
+Jesús Manuel Muñoz Mazuecos.
+José María Gutierrez Gutierrez.
+
+Memoria: documentacion.pdf
+
+Código fuente:     ./src
+Bancos de pruebas: ./tb
+Capturas:          ./capturas
+
+
+
+
